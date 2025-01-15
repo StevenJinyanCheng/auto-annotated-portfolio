@@ -6,7 +6,8 @@ date: '2021-10-15'
 client: Awesome client
 description: >-
   This is a Python and C++ project to search primes with more than 1000 digits.
-  You must install 
+  You must install GNU MP for C++ and gmpy2 and tqdm for Python. Current biggest
+  prime found has 5000 digits.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
